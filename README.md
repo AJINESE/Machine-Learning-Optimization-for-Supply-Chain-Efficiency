@@ -1,2 +1,10 @@
 # Machine-Learning-Optimization-for-Supply-Chain-Efficiency
 Optimized supply chain operations using machine learning techniques on simulated Amazon sales data. Developed predictive models and visualizations to improve demand forecasting, delivery performance, and customer segmentation.
+
+This project focuses on enhancing supply chain efficiency using machine learning techniques, demonstrated with simulated Amazon sales data. The study addresses key challenges in supply chain management, such as demand forecasting, delivery delays, and customer segmentation, leveraging advanced algorithms and visualization tools to optimize operations.
+
+Machine learning models were developed to analyze critical aspects of supply chain performance. Linear Regression was used to predict sales revenue, providing actionable insights for inventory planning and revenue optimization. Random Forest and LightGBM were applied to identify factors contributing to delivery delays, highlighting the role of courier performance and fulfillment methods. Neural Networks enabled demand forecasting with 93% accuracy, allowing for precise inventory and procurement management. Additionally, K-Means Clustering was employed to segment customers, identifying high-value buyers and enabling targeted marketing strategies.
+
+The project integrates these models with detailed visualizations to provide actionable insights. Interactive dashboards were created using Power BI, offering a real-time view of performance metrics and key operational trends. Key achievements include uncovering $9.32 million in potential logistics cost savings and improving inventory management accuracy by aligning stock levels with customer demand.
+
+By showcasing the power of machine learning in supply chain optimization, this project demonstrates its scalability and adaptability across various industries. The repository includes code implementations, visualizations, and documentation, offering a comprehensive framework for practitioners and researchers seeking to implement data-driven strategies in supply chain management.
